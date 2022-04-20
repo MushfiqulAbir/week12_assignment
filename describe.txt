@@ -1,0 +1,1 @@
+From the scatter plot, we can see that odor is perfect predection if the mushroom is poisonous. But for the newData the plot was not perfect. Mushroom with an odor 6 not able to predict perfectly. 
